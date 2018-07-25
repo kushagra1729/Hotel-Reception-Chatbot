@@ -1,0 +1,3420 @@
+﻿
+Hello, excuse me. I have a reservation for tonight.
+  :  Your reservation is Under what name?
+    
+It's Spencer. S P E N C E R
+   :  That's right, yes.
+    
+Sorry. Could you tell me if breaksfast is included in the price of the room?
+  :  Yes, sir. One moment ... yes, breakfast is included for two adults. The children eat for free.
+    
+Great. And what time is breakfast served?
+  :  The dining room is open from seven o'clock until ten o'clock on weekdays and until eleven at the weekend.
+    
+Great. And where is the dining room?
+ :  It's on the first floor.
+    
+I'd like to reserve a hotel room.
+
+ : That should be no problem. May I have your full name, please?
+
+My name is John Sandals.
+
+ : Hello, Mr. Sandals. My name is Michelle. What days do you need that reservation, sir?
+
+I'm planning to visit New York from Friday, April 14 until Monday, April 17.
+
+ : Our room rates recently went up. Is that okay with you, Mr. Sandals?
+
+
+How much per night are we talking about?
+
+ : Each night will be $308.
+
+
+That price is perfectly acceptable.
+
+ : Wonderful! Do you prefer a smoking or nonsmoking room?
+
+
+Nonsmoking, please.
+
+ : Next question: Is a queen-size bed okay?
+
+
+That sounds fine.
+
+ : Okay, Mr. Sandals. Your reservation is in our computer. All we need now is a phone number.
+
+
+Certainly. My phone number is 626-555-1739.
+
+ : Thank you, Mr. Sandals. We look forward to seeing you in New York!
+
+
+
+Hi there, I want to reserve a hotel room.
+
+ : No problem at all. Could I have your full name, please?
+
+
+Sure, John Sandals.
+
+ : Hi, Mr. Sandals. I'm Michelle, at your service. When do you need the room?
+
+
+My plans are to be there April 14th to the 17th.
+
+ : We have new room rates, sir. Will that be acceptable to you?
+
+
+It depends on the price, of course. What is it?
+
+ : It's $308 a night.
+
+
+I have no problem with that.
+
+ : Great! Would you prefer smoking or nonsmoking?
+
+
+Definitely nonsmoking. I can't handle that smell.
+
+ : Nonsmoking. Now, is a queen-size bed okay?
+
+
+No problem.
+
+ : Great, Mr. Sandals. Your reservation is confirmed. Now all I need is your phone number.
+
+
+Of course! It's area code 626-555-1739.
+
+ : Thank you so much, Mr. Sandals. We look forward to seeing you!
+
+
+
+
+
+I need to reserve a room.
+
+ : Not a problem. May I have your name, please?
+
+
+Of course. I'm John Sandals.
+
+ : Hi, sir. My name is Michelle. Could you tell me when you need the room?
+
+
+Right now. I plan to be there in April from the 14th to the 17th.
+
+ : Perhaps you didn't know that we have new room rates. Do you find that acceptable, sir?
+
+
+Maybe. How much is a room?
+
+ : The price per night is $308.
+
+
+That sounds fine to me.
+
+ : Fantastic! Would you like a smoking or nonsmoking room?
+
+
+I hate cigarettes! Nonsmoking.
+
+ : That'll be nonsmoking. Now, do you approve of a single queen-size bed?
+
+
+That'll be no problem.
+
+ : I'm happy to hear that, sir. Your reservation is all set except for your phone number.
+
+
+Sure! My number is 626-555-1739.
+
+ : 626-555-1739. Thank you for doing business with us, Mr. Sandals.
+
+
+
+
+
+I need a hotel room.
+
+ : That's no problem at all. May I have your name, please?
+
+
+Certainly. My name is John Sandals.
+
+ : It's a pleasure, Mr. Sandals. My name is Michelle. What days will you need a room?
+
+
+Friday afternoon, April 14 through Monday morning, April 17.
+
+ : One minor problem, sir. Our prices are now slightly higher. Is that acceptable, sir?
+
+
+Please tell me the price, so I can make a decision.
+
+ : It'll be $308 nightly.
+
+
+That's a reasonable price.
+
+ : Good! Now, sir, do you have a preference for smoking or nonsmoking?
+
+
+I quit smoking, so nonsmoking.
+
+ : I hear you, sir. Nonsmoking. Now, about the bed, is a queen-size okay?
+
+
+A queen sounds great.
+
+ : Okay, sir, let me reserve those dates, there. Now, if you'll just tell me your phone number.
+
+
+That would be 626-555-1739.
+
+ : That's 626-555-1739. Thank you so much for choosing our hotel, sir!
+
+
+
+
+
+I need a room for a few days.
+
+ : That won't be a problem. Could you please tell me your name?
+
+
+John Sandals. That's S A N D A L S.
+
+ : Sir, I'm Michelle, and I run the front desk. Please tell me the days you'll be here.
+
+
+I'll be there in April: Friday through Monday, the 14th through the 17th.
+
+ : We recently changed many things here, sir, including our prices. Do you mind, sir?
+
+
+Possibly. What's the actual price?
+
+ : The price will be $308 a night.
+
+
+$308! That's not bad.
+
+ : Very good. Now, Mr. Sandals, about the room, smoking or nonsmoking?
+
+
+Nonsmoking, definitely!
+
+ : Most of our clients prefer nonsmoking. Now, does a queen sound okay?
+
+
+Yes, that'll be just fine.
+
+ : One more second, sir. Your reservation is now verified, so all I need is your phone number.
+
+
+It's 626-555-1739.
+
+ : Let me repeat that: 626-555-1739. Okay, sir, we look forward to seeing you in April!
+
+
+
+
+
+
+Can I reserve a hotel room?
+
+ : I assure you, that's not a problem. What is your full name, please?
+
+
+My name's John Sandals.
+
+ : It's a pleasure to assist you. Please tell me when you'll be needing the room, sir.
+
+
+If my plans don't change, I'll need a room April 14 till April 17.
+
+ : Sir, our room prices are slightly higher than you may have thought. Will that be okay?
+
+
+Tell me how much it will be, and I can tell you if it's okay.
+
+ : Only $308 per night, before taxes, of course.
+
+
+$308 a night? That's a fair price.
+
+ : Now, as for the room, sir, do you prefer smoking or nonsmoking?
+
+
+Nonsmoking, please.
+
+ : Nonsmoking. Now, sir, does a single queen-size bed meet your approval?
+
+
+I have absolutely no problem with that.
+
+ : Queen, nonsmoking. Okay, sir, your room is reserved. Now if you'll just give me your phone number.
+
+
+Not a problem. The number is 626-555-1739.
+
+ : Thank you for making a reservation with us. We look forward to seeing you in April!
+
+
+I have a reservation. My name is John Sandals.
+
+ : May I see your ID, please, Mr. Sandals?
+
+
+Certainly. Here it is.
+
+ : Thank you. Do you have a credit card, Mr. Sandals?
+
+
+Yes, I do. Do you accept American Express?
+
+ : Sorry, sir, just VISA or MasterCard.
+
+
+Here's my VISA card.
+
+ : Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+
+
+Yes, it sounds like everything I expected.
+
+ : Here's your key, sir. If you need anything, just dial 0 on your room phone.
+
+
+
+
+
+
+I have a reservation under the name of Sandals.
+
+ : Could I see your ID, please, sir?
+
+
+Of course! Let me take it out of my wallet.
+
+ : Thank you, sir. Now, do you have a credit card, sir?
+
+
+Yes, of course. Is American Express okay?
+
+ : I'm sorry, sir. Only VISA or MasterCard.
+
+
+In that case, here's my VISA.
+
+ : Thank you. Your room number is 507, queen bed, nonsmoking. Is that agreeable to you, sir?
+
+
+Yes, I'm easy to please.
+
+ : Very good. Here is your room key, sir. If you need anything at all, please dial 0.
+
+
+
+
+My name is Sandals, I have a reservation.
+
+ : May I see your identification, please, sir?
+
+
+Here you are.
+
+ : Thanks. Do you have a credit card, sir?
+
+Of course. Will American Express do?
+
+ : I'm very sorry, sir. We accept only VISA or MasterCard.
+
+
+No problem. Here's my VISA.
+
+ : Thanks. Room 507 is a spacious, nonsmoking room, with a queen bed. Does that meet your expectations?
+
+
+Yes, that sounds like what I want.
+
+ : That's wonderful, sir. Now, here's your key. Should you need anything, just dial 0.
+
+
+I'm John Sandals, and I have a reservation.
+
+ : Would you show me your ID, sir, please?
+
+
+Here you go.
+
+ : Thank you very much. Now, sir, do you have a credit card?
+
+
+Certainly! Would you like my American Express card?
+
+ : Regrettably, Mr. Sandals, we accept only MasterCard or VISA.
+
+
+I thought American Express was accepted everywhere. Never mind. Here's my VISA.
+
+ : Thanks. You're in room 507, a big, nonsmoking room, with a queen bed. Is that okay, sir?
+
+
+Yes, that's just fine.
+
+ : I'm happy to hear that. Here is your key. Just dial 0 if you need anything.
+
+
+
+
+My name is John Sandals, and I've got a reservation.
+
+ : May I see some identification, sir, please?
+
+
+Sure. Here you are.
+
+ : Thank you so much. Have you got a credit card, Mr. Sandals?
+
+
+I sure do. How about American Express?
+
+ : Unfortunately, at the present time we take only MasterCard or VISA.
+
+
+No American Express? Okay, here's my VISA.
+
+ : Thank you, sir. You'll be in room 507, nonsmoking, with a queen-size bed. Do you approve, sir?
+
+
+Yes, that'll be fine.
+
+ : That's great. This is your key, sir. If you need anything at all, anytime, just dial zero.
+
+
+I've got a reservation here. My name is John Sandals.
+
+ : Mr. Sandals, may I see your ID, please?
+
+
+One second, please, while I dig it out here.
+
+ : Now, sir, do you have a credit card?
+
+
+Yes, I do. Do you accept American Express?
+
+ : I'm sorry, Mr. Sandals, but we accept only MasterCard or VISA.
+
+
+That's okay, I've got plenty of cards. Here's my VISA.
+
+ : Okay. You're in room 507. It's a single queen-size bed, spacious, and nonsmoking. Is that suitable?
+
+
+Yes, that's just what I wanted.
+
+ : Here's your key, sir. If you need anything, just dial 0 on your room phone.
+
+
+I need to request a wake-up call for tomorrow morning.
+
+ : What time do you want the call?
+
+
+I need two calls, one at 7 and another at 7.15.
+
+ : We can certainly do that. Expect a call from us at 7.00, and then again at 7.15.
+
+
+Actually, can I change the latter wake-up call to 7.30 am?
+
+ : I can certainly do that. Is there anything else?
+
+
+I can't think of anything. If I do think of something, I'll be sure to call again.
+
+ : Okay. Good night, sir.
+
+
+I need a wake-up call tomorrow morning.
+
+ : Of course. When would you like the call?
+
+
+Actually, I need two calls, one at 7 and the other at 7.15.
+
+ : No problem. We'll give you both calls.
+
+
+Do you know what, let's change the second call to 7.30.
+
+ : No problem. Anything else, sir?
+
+
+Not at the moment, thank you.
+
+ : Let me know if you do need anything.
+
+
+
+
+Can you give me a wake-up call tomorrow?
+
+ : Certainly. What time would you like us to call you?
+
+
+I need two wake-up calls, if you don't mind, one at 7 and the other at 7.15.
+
+ : Not a problem. We'll call you tomorrow morning at 7, and again at 7.15.
+
+
+On second thought, you'd better make that second call at 7.30 instead of 7.15.
+
+ : Said, and done. Will there be anything else?
+
+
+No, that gets it for now, thank you.
+
+ : Well, give us a call if there's anything more we can help you with.
+
+
+
+
+Tomorrow I'm going to need a wake-up call.
+
+ : Not a problem. What time shall we call you?
+
+
+I always hit the snooze button, so give me two calls, one at 7 and another at 7.15.
+
+ : It'll be our pleasure. We'll call you at 7 and then at 7.15.
+
+
+Oops, cancel that. Change the second call to 7.30, will you, please?
+
+ : No sooner said than done. Can I help you with anything else?
+
+
+No, that's about it for now.
+
+ : Okay, sir. Have a pleasant evening.
+
+
+I need a wake-up call tomorrow.
+
+ : What time would you like your wake-up call?
+
+
+I need two calls, one at 7 and another at 7.15.
+
+ : That is no problem at all, of course. You'll get a call at 7.00, and another at 7.15.
+
+
+Then again, I think 7.15 is too early. Change 7.15 to 7.30, please.
+
+ : So, that'll be a call at 7 and another at 7.30. Do you have any other requests?
+
+
+Not just now, but if I do think of something later, I'll give you a ring.
+
+ : Okay, sir. Sleep well.
+
+
+
+
+
+I've got to get up early tomorrow, so please give me a wake-up call.
+
+ : Of course. We can give you a call anytime you like.
+
+
+Actually, I need two calls, one at 7 and the other at 7.15.
+
+ : Your wish is our command. Expect a call at 7, and another one at 7.15.
+
+
+Wait a minute! I don't like 7.15, now that I think about it. Change it to 7.30.
+
+ : The second call is now changed to 7.30. Is there anything else we can help you with?
+
+
+Nothing that I can think of right now. If something comes up, though, I'll call you.
+
+ : We're here all night long if you need anything.
+
+
+
+The front desk told me to ask you for sightseeing advice.
+
+ : Of course. I'd be more than happy to help. I am, after all, the hotel's concierge.
+
+
+Concierge? What exactly is that?
+
+ : We advise you on where to visit, eat, or shop during your stay here in New York.
+
+
+Great! So where should I start my sightseeing?
+
+ : The Statue of Liberty is always a good place to begin.
+
+
+I saw the Statue of Liberty on my last visit here. Can you recommend somewhere else?
+
+ : Hmm. What type of interests do you have?
+
+
+In my spare time, I really like to view art and go running.
+
+ : Aha! Have you been to Central Park or the Museum of Modern Art?
+
+
+No, but I've heard a lot about both.
+
+ : Well, Central Park is wonderful for running. Afterwards, you should head to the Museum to enjoy the art.
+
+
+Great! That sounds like a plan. Thanks a lot.
+
+ : I'm sure you'll have a good time there.
+
+
+
+I was told to see you about going sightseeing.
+
+ : It's my pleasure. I'm the hotel's concierge, at your service.
+
+
+Concierge? Could you explain that to me?
+
+ : We help direct hotel visitors to popular places to visit, eat, and shop.
+
+
+Very good. So where shall I begin my sightseeing?
+
+ : I would suggest the Statue of Liberty.
+
+
+Gee, I've already seen the Statue of Liberty. What about another site?
+
+ : Let me see. What do you like to do in your spare time?
+
+
+I really like to run. And I like art.
+
+ : Well, there you go! Have you ever visited either Central Park or the Museum of Modern Art?
+
+
+No, but I've been meaning to.
+
+ : Well, Central Park is fantastic for running. Then you can go to the Museum to look at the beautiful art.
+
+
+That sounds like a great plan. I'll do that.
+
+ : Enjoy your run and your visit!
+
+
+
+
+
+I need some sightseeing advice.
+
+ : That's what I'm here for, sir. Every good hotel has a concierge like me.
+
+
+I don't travel a lot. What exactly is a concierge?
+
+ : A concierge helps visitors like you find great places to visit, shop, and eat.
+
+
+That's great! So tell me, where should I go first?
+
+ : I'd suggest that you start at the Statue of Liberty.
+
+
+You know, I've already been there. Can you suggest another place?
+
+ : Maybe. Tell me what you like to do in your spare time.
+
+
+When I have some free time, I often spend it running or at museums.
+
+ : Well, have you ever been to either Central Park or the Museum of Modern Art?
+
+
+No, but I sure would like to.
+
+ : Central Park is great for just about everything outdoors. Then you can visit the Museum of Modern Art.
+
+
+Both places sound great. I'll try to do that today.
+
+ : Enjoy the views at both places.
+
+
+
+
+I'm going sightseeing, but I'd like to get your advice first.
+
+ : I'm only too happy to help. Tourists should always check with their concierge first.
+
+
+Concierge? I'm not familiar with that word.
+
+ : A concierge directs visitors to the city's great tourist, shopping, and eating places.
+
+
+That sounds great. Now, is there any place that I should hit first?
+
+ : Well, if you're like most people, you'll want to go to the Statue of Liberty.
+
+
+I've already seen it, I loved it, but today I want to go somewhere else.
+
+ : Sure! Tell me about your interests.
+
+
+I like to run and I like to see the works of the masters.
+
+ : You'll get along fabulously at Central Park and the Museum of Modern Art! Have you been to either?
+
+
+No, I just haven't had the opportunity.
+
+ : You'll love Central Park for running. Later on, you can go to the Museum of Modern Art.
+
+
+Thank you. That's what I'll do.
+
+ : This might be the best day of your visit.
+
+
+
+
+I need some sightseeing advice. I was told to come to see you.
+
+ : As your concierge, it is my pleasure to help you, sir.
+
+
+Concierge? Are we speaking English here?
+
+ : A concierge helps you find all the great places for visiting, shopping, and eating.
+
+
+What would you suggest that I visit first?
+
+ : How about starting at the Statue of Liberty? Many people like to begin there.
+
+
+The last time I was here, I visited the Statue. So do you have another place in mind?
+
+ : I think so. Tell me what interests you.
+
+
+I'm big on running, although maybe I like art even more than running.
+
+ : Then you must go to Central Park and the Museum of Modern Art! Have you been to either one?
+
+
+No. I haven't had a chance to go to either of them.
+
+ : Both places are usually crowded with natives and tourists. You'll love the Park and the Museum.
+
+
+Thank you. That's great advice.
+
+ : This might be the best day of your visit.
+
+
+
+
+
+Can you give me some advice about going sightseeing?
+
+ : Your concierge, sir, is the right person to ask when you need sightseeing advice.
+
+
+What in the world is a concierge?
+
+ : We direct visitors to all the great tourist, shopping, and eating spots in the city.
+
+
+Then what would you recommend as a starting point for my sightseeing?
+
+ : Definitely the Statue of Liberty. I think that that is everyone's favorite first stop.
+
+
+Actually, I've already been there twice. Do you have another suggestion?
+
+ : I think I can come up with something. How do you spend your spare time?
+
+
+I keep my body healthy by running and my mind active by visiting museums.
+
+ : Well, the Museum of Modern Art and Central Park were made for you! Have you gone to either one?
+
+
+No, although I've heard great things about both of them.
+
+ : You don't want to miss either place. Central Park and the Museum of Modern Art are big and beautiful.
+
+
+Sounds great! I'll get my running gear and then I'm out of here.
+
+ : This is a day you're going to remember for a long time.
+
+
+I need a suggestion for a restaurant here in Manhattan.
+
+ : Certainly! How much are you planning to spend on dinner, sir?
+
+
+My date's very sophisticated, so I'm sure she would expect nothing but the best.
+
+ : May I suggest our own hotel restaurant? It got three stars in the latest restaurant review.
+
+
+No, thank you, I want to go out on the town. What other ideas do you have?
+
+ : There's always Gramercy Tavern. They have live jazz. The food is delicious, but very expensive.
+
+
+That sounds like a good place to take a date. Can you make a reservation for me?
+
+ : As you wish, sir. You'll have a wonderful time there.
+
+
+
+
+Can you tell me about a nice restaurant to go to?
+
+ : Of course! How much would you like to spend on your meal?
+
+
+My date is quite sophisticated. She would expect nothing less than the best.
+
+ : Well, how about our own hotel restaurant? It's conveniently located and has a three-star rating.
+
+
+That's a good idea, except I want to go out, not stay in. Something else, maybe?
+
+ : Well, how about Gramercy Tavern? It's a very popular tourist spot, with great food and music.
+
+
+That sounds good! Could you call them to see if I can get a reservation?
+
+ : Of course, sir. You've made a good choice.
+
+
+
+
+So, now I need your help again, if you don't mind. I'm taking a date to a restaurant.
+
+ : I'd love to help you! What is your budget for the dinner?
+
+
+She strikes me as being very sophisticated. Only the best will do for her.
+
+ : Well, what do you think about our very own hotel restaurant? It is very upscale, with a three-star rating.
+
+
+I don't want to be cooped up in my own hotel tonight. How about another restaurant?
+
+ : The Gramercy Tavern is highly rated. It has great food and live jazz, but it's not cheap.
+
+
+Yes, that sounds like a winner. Would you please call them to reserve a table?
+
+ : I'm already dialing, sir.
+
+
+
+
+I'm taking a date to a restaurant, so could you please direct me to a good one?
+
+ : But of course! How much are you thinking of spending on dinner?
+
+
+She deserves nothing but the best, of course.
+
+ : In that case, I would suggest our own hotel restaurant. The chef, the food, and the service are outstanding.
+
+
+I promised her I would take her out to a restaurant. Do you have another one in mind?
+
+ : You can always go to Gramercy Tavern. It's quite popular, despite its expensive entrees.
+
+
+Great food and lots of patrons? What more could I want? Please reserve a table for me.
+
+ : Yes, sir. You're going to have a great time.
+
+
+
+
+I'm taking my date to a restaurant. Could you tell me about one or two good ones?
+
+ : My pleasure! How much would you like to spend on your date?
+
+
+She will want an excellent restaurant, of course.
+
+ : You should know that our hotel chef was trained in Paris. The service and food are world-class.
+
+
+I wanted to go out somewhere, not stay here. Do you know of another good restaurant?
+
+ : You can't go wrong with Gramercy Tavern. It's famous for its food, service, and live jazz.
+
+
+I like that! Could you please call them to see if we can get in tonight?
+
+ : At once, sir. You'll love this place, I assure you.
+
+
+
+
+
+Well, I've got a date. Now I need to find a restaurant. Can you help me?
+
+ : No problem, of course! How much would you like to spend to impress the lady?
+
+
+Nothing but the best for a pretty woman!
+
+ : Sir, the restaurant you seek is right here. This hotel has a three-star restaurant.
+
+
+I sort of suggested that we would go out on the town. Do you have another suggestion?
+
+ : Gramercy Tavern is at least as good as our own hotel restaurant. Plus, they have live jazz.
+
+
+Gramercy Tavern? I think I've heard of that before. Call to get us a table, okay?
+
+ : Right away, sir. She will be impressed with your local knowledge.
+
+
+
+I'd like to order dinner.
+
+ : What would you like?
+
+
+I'd like to order a bottle of champagne, lobster tail, and filet mignon, medium rare.
+
+ : I'm sorry. We're currently out of filet mignon. May I suggest the porterhouse instead?
+
+
+I'd prefer the filet, but the porterhouse will do.
+
+ : And may I suggest chocolate-covered strawberries with the champagne?
+
+
+Normally, I would take you up on that suggestion, but just the champagne will do for tonight.
+
+ : Okay, no strawberries. Room service will be charged to your amenities account. Is that all right?
+
+
+That's fine.
+
+ : It will be up shortly. Enjoy your food, sir.
+
+
+
+
+Could I order dinner?
+
+ : Of course. What would you like?
+
+
+I want a bottle of champagne, lobster tail, and filet mignon, medium rare.
+
+ : I'm so sorry. We ran out of filet mignon. May I suggest the porterhouse instead?
+
+
+That's too bad, but the porterhouse will be okay.
+
+ : May I be so bold as to suggest chocolate-covered strawberries with the champagne?
+
+
+Not tonight, thank you.
+
+ : No strawberries. We'll charge your amenities account, if that's okay.
+
+
+Charge it to whatever account you like.
+
+ : Your meal will be delivered as soon as it's all ready. Enjoy!
+
+
+
+
+
+Could you bring me some food, please?
+
+ : Sure. What do you fancy?
+
+
+Can I have a bottle of champagne, lobster tail, and filet mignon, medium rare?
+
+ : Sir, the filet mignon was so popular tonight that we ran out. May I suggest the porterhouse?
+
+
+No filet? Okay, porterhouse will be fine then.
+
+ : Perhaps you would like chocolate-covered strawberries with the champagne?
+
+
+Not tonight, but thank you for the suggestion.
+
+ : Okay. This will be charged to your amenities account, okay?
+
+
+No problem.
+
+ : Your food will be brought to you momentarily. I hope you enjoy it.
+
+
+
+
+I'd like you to bring me some food.
+
+ : Just name it, sir.
+
+
+Please send up a bottle of champagne, lobster tail, and filet mignon, medium rare.
+
+ : Regrettably, we're currently out of filet mignon. May I suggest the porterhouse instead?
+
+
+Sure, I love porterhouse, too.
+
+ : Would you be interested in chocolate-covered strawberries with the champagne?
+
+
+I'd love to, but I'm allergic to strawberries.
+
+ : Okay, no strawberries tonight. The items will be charged to your amenities account.
+
+
+Go right ahead.
+
+ : Our staff will bring you your order in as short a time as possible.
+
+
+I need something to eat, please.
+
+ : Tell me what you're hungry for.
+
+
+I feel like champagne, lobster tail, and filet mignon, medium rare.
+
+ : Unfortunately, we're out of filet mignon at the moment. May I suggest the porterhouse instead?
+
+
+I prefer filet, but porterhouse is good, too.
+
+ : Perhaps I could interest you in chocolate-covered strawberries with the champagne?
+
+
+Just the champagne will be fine, thank you.
+
+ : You'll see this charge on your amenities account.
+
+
+That's fine.
+
+ : It won't be long until your food is delivered. I know you'll enjoy it.
+
+
+
+
+Can I order something from the kitchen?
+
+ : Just tell me what you'd like, please.
+
+
+A bottle of champagne, lobster tail, and filet mignon, medium rare would hit the spot.
+
+ : I hate to tell you this, but we have no more filet mignon. May I suggest the porterhouse instead?
+
+
+Sure! Right now, I would even eat hamburger!
+
+ : Have you ever tried chocolate-covered strawberries with champagne?
+
+
+Thank you, but I just finished eating some chocolate-covered cherries.
+
+ : That'll be a bottle of champagne, lobster tail, and porterhouse, all charged to your amenities account.
+
+
+Not a problem.
+
+ : Please call if you have any other requests. Your food will be delivered promptly.
+
+
+I have a little problem with room 507.
+
+ : What exactly seems to be the problem, Mr. Sandals?
+
+
+I found cockroaches in my room.
+
+ : Cockroaches, sir? That's unbelievable.
+
+
+I've seen at least nine different cockroaches in my room.
+
+ : Sir, are you sure you haven't seen the same silverfish nine times?
+
+
+There are nine cockroaches in my room. I don't have time for your disbelief!
+
+ : I apologize. One moment, please, while I transfer you to my supervisor.
+
+
+
+
+
+
+I'm in 507. I have a few problems with my room.
+
+ : What is that problem, sir?
+
+
+There are cockroaches in my room.
+
+ : Are you sure, sir? Flies I could believe, but cockroaches?
+
+
+I've counted nine different cockroaches, and I accidentally stepped on another one.
+
+ : Sir, we run a spotless and cockroach-less hotel.
+
+
+You dare to doubt me?
+
+ : I'm sorry, sir. Let me transfer you to my supervisor.
+
+
+
+
+
+
+There's a big problem with my room. I'm in 507.
+
+ : Would you tell me the nature of the problem, sir?
+
+
+I have cockroaches crawling in my room.
+
+ : Perhaps you saw a silverfish, sir.
+
+
+I've seen nine more cockroaches than I wanted to see.
+
+ : Sir, you haven't been drinking by any chance, have you?
+
+
+How dare you question my statement!
+
+ : Forgive me. You're 100 percent correct. Allow me to transfer you to my supervisor.
+
+
+
+
+
+
+There's a major problem with room 507.
+
+ : I'm sorry to hear that. Please tell me the exact problem.
+
+
+This room is overrun with cockroaches.
+
+ : There has been an occasional silverfish in the hotel, sir.
+
+
+I stopped counting at nine.
+
+ : Sir, this hotel just passed a thorough insect inspection with flying colors.
+
+
+Your inspector needs spectacles. The fact is that cockroaches are running rampant.
+
+ : I apologize, sir. Just a second, while I transfer you to my supervisor.
+
+
+
+
+
+
+I'm in 507, and I have a big problem.
+
+ : I'm so sorry. Kindly tell me what the problem is, sir.
+
+
+Everywhere I look, I see cockroaches.
+
+ : Perhaps you could look again, sir, to double-check.
+
+
+The next cockroach I see will be number ten.
+
+ : Mr. Sandals, I've worked here five years without seeing one cockroach.
+
+
+I've already suffered enough without listening anymore to you!
+
+ : You're right, sir. Please let me transfer you to my supervisor.
+
+
+
+
+
+
+I have a little problem with room 507.
+
+ : Problems are what we're here for, sir. Please tell me your problem.
+
+
+This room is filthy with cockroaches.
+
+ : Were you wearing your glasses when you noticed them, sir?
+
+
+I've already seen nine of them and, as they say, eight is enough!
+
+ : Sir, sometimes a fast elevator ride makes our guests see spots.
+
+
+You are not in a position to question my vision or my statement!
+
+ : I'm very sorry, sir. Will you please hold while I transfer you to my supervisor?
+
+
+I want to change rooms. In fact, I want a refund for tonight!
+
+ : And the problem is, sir?
+
+
+Cockroaches have taken over my room!
+
+ : My apologies, sir. We'll give you a new room and refund the value of your current room.
+
+
+Thank you. I want to continue to be able to recommend this hotel to others.
+
+ : We always try to serve our guests in the most agreeable way possible.
+
+
+
+
+
+
+I want to change rooms immediately, plus a refund for tonight.
+
+ : I'm sorry, sir. Exactly what is the problem?
+
+
+I'm knee-deep in cockroaches!
+
+ : I'm so sorry, sir. We'll give you a new room immediately, and give you a refund also.
+
+
+Thank you. I'm glad that this hotel strives to keep its reputation intact.
+
+ : Sir, we always try to please our guests.
+
+
+
+
+
+
+I'm quite upset! I want a new room and a refund for tonight.
+
+ : Forgive me, sir, I haven't been told what the problem is.
+
+
+I'm about to be swept away by millions of cockroaches!
+
+ : My apologies, sir. We'll transfer you to a new room at once and give you a full refund.
+
+
+Thank you. I didn't want to have to take this to court.
+
+ : Sir, we never want a guest to stay here mad or unhappy.
+
+
+
+
+
+
+This room is unacceptable. I want a new one, and I want a refund for tonight.
+
+ : Would you please tell me the exact problem, sir?
+
+
+I'm being attacked by hordes of cockroaches!
+
+ : Oh, my gosh, they're back? Another room at once, sir, plus a full refund, of course.
+
+
+Thank you very much. This has been a most unsettling experience.
+
+ : Sir, our guests are our reason for being.
+
+
+
+
+
+
+This room is unfit for humans. I want another room, and I want a refund for tonight.
+
+ : Perhaps if you would be kind enough to tell me the problem, sir.
+
+
+In a word, cockroaches!
+
+ : Oh, no, are they back? I'll give you another room immediately, sir, and a refund for tonight.
+
+
+Thank you. I'm glad that you don't believe that your guests are liars.
+
+ : Sir, without happy guests, we are nothing.
+
+
+
+
+
+I want to change rooms. In fact, I want a refund for tonight!
+
+ : If you tell me the exact problem, I can be more helpful.
+
+
+Cockroaches have declared war on my room!
+
+ : Allow me to apologize. I'll give you another room right now, and a full refund for tonight.
+
+
+Thank you for not asking me to collect the roaches in a jar as evidence.
+
+ : Sir, only your mother wants to please you more than we do.
+
+
+Excuse me. Does this hotel have a fitness facility?
+
+ : Yes, we try to accommodate all needs of our patrons, including fitness.
+
+
+Where is your fitness facility located?
+
+ : The gym is just below the lobby. Take the elevator or the stairs. You can't miss it.
+
+
+Is there an additional surcharge for the gym?
+
+ : No, the gym is free to guests. Take your room key, however, so you can get in.
+
+
+What time is the gym open, and what time does it close?
+
+ : The gym is open seven days a week, twenty-four hours a day.
+
+
+Do you offer trainer services along with the gym?
+
+ : Unfortunately, no. If you want a trainer, you'll have to use another gym.
+
+
+
+
+
+
+Pardon me. Does your hotel have a fitness facility?
+
+ : Yes, sir. We try to anticipate all our guests' needs, including fitness.
+
+
+Great! Where is it?
+
+ : Sir, the gym is just below the lobby. You can take the elevator or the stairs.
+
+
+Do I have to pay extra?
+
+ : No, sir. It's gratis. Just take your room key so you can get in.
+
+
+What are the gym hours?
+
+ : You'll be happy to know that it's open 24/7.
+
+
+Great! Is a trainer available?
+
+ : I'm sorry, but no. We used to have a trainer, but then he had an unfortunate accident.
+
+
+
+
+
+Does this hotel have an exercise facility?
+
+ : But of course! We have a great exercise facility.
+
+
+Good. Now exactly where is it?
+
+ : It's located right under our lobby. Just take the elevator or the stairs one flight down.
+
+
+Is this going to cost me anything?
+
+ : No, sir. The gym is absolutely free. However, be sure to take your room key with you.
+
+
+When does the gym open and close?
+
+ : The hours couldn't be better, 24/7.
+
+
+Very good. Now, is there a trainer down there?
+
+ : I wish I could tell you yes, but no, there isn't.
+
+
+
+
+
+
+Do you have a place where I can exercise?
+
+ : Yes, sir. We have a fine exercise facility.
+
+
+I'm happy to hear that. Now, would you tell me where it is?
+
+ : You're actually standing above it. Just take the elevator or stairs down one level.
+
+
+Is the hotel going to charge me a dollar a minute for gym use?
+
+ : No, sir. There's no extra charge. All you need is your room key to open the door.
+
+
+And the gym hours are?
+
+ : Sir, you'll be pleased to know that our gym never closes.
+
+
+One more question: Do you have a trainer?
+
+ : We might be getting one in the near future. But at the present time, no.
+
+
+
+
+
+Excuse me. Do you happen to have a gym here?
+
+ : Yes, sir. I think you'll find our gym quite satisfactory.
+
+
+So, where do I go to exercise?
+
+ : It's only one flight down, sir. Just take the elevator or the stairs.
+
+
+Am I going to be charged extra for using the gym?
+
+ : Sir, you can use the gym for free. All you need is your room key.
+
+
+Great! Now tell me, what are the hours of this gym?
+
+ : Sir, our gym is open around the clock, every day of the week.
+
+
+Do you have a trainer to help me work out?
+
+ : I'm sorry, sir, but we have no trainer.
+
+
+I'd like to request some more amenities.
+
+ : Amenities? What do you mean by amenities, sir?
+
+
+The free stuff, you know, the soap, lotion, shampoo, etc.
+
+ : I see. Sir, if I may ask: Have you used up all the amenities in your room?
+
+
+Not at all. I still have enough for the next few days.
+
+ : Then what is the problem, sir?
+
+I need some to keep as souvenirs!
+
+ : Souvenirs?
+
+
+Yes, souvenirs. Trinkets to remember my trip by!
+
+ : We do have a souvenir shop on the first floor, sir.
+
+
+That's not the same. I never pay for hotel souvenirs!
+
+ : I'll call housekeeping. Someone will be up with more amenities shortly.
+
+
+
+
+
+
+I need more amenities, please.
+
+ : Could you be a little more specific, sir?
+
+
+To be more specific, the free stuff, like soap, lotion, and shampoo.
+
+ : I understand. Now, you're saying that you've already used up all your amenities?
+
+
+No! I've got all I need for my stay here.
+
+ : So, what's the problem?
+
+I need souvenirs!
+
+ : You want some souvenirs!
+
+
+Yes, yes. Souvenirs.
+
+ : But, sir, our souvenir shop carries all those items.
+
+
+That's not the same thing. If you buy hotel souvenirs, they have no sentimental value.
+
+ : I understand, sir. I'll call housekeeping. You'll have your souvenirs shortly.
+
+
+
+
+
+
+How do I get more amenities?
+
+ : I'm sorry, sir. I'm not sure I understand.
+
+
+I'm talking about the free stuff, like soap and shampoo.
+
+ : Oh, I see. So, you're saying that you've already run out of your amenities.
+
+
+No, no. I've got plenty left.
+
+ : Now I'm confused again! What is the problem?
+
+
+What am I going to do about souvenirs?
+
+ : Oh, I get it! You want souvenirs!
+
+
+Yes, I've got enough soap for my use, but no extra soap for souvenirs.
+
+ : Sir, our souvenir shop carries all those items, and as a guest you get a discount.
+
+
+Please! Free souvenirs are the only true souvenirs.
+
+ : I understand completely, sir. Housekeeping will bring you souvenirs in just a moment.
+
+
+
+
+
+
+Yes, I need more amenities.
+
+ : By amenities, exactly what do you mean, please?
+
+
+You know, the things that are free, like the soap and the shampoo.
+
+ : Okay, I got it. You've already run out of all your amenities?
+
+
+No, I still have plenty left, even if I took three baths a day.
+
+ : I'm more confused now than before. How is there a problem?
+
+
+I need to take home some souvenirs!
+
+ : Okay, finally I understand. You would like souvenirs!
+
+
+Yes, souvenirs that I can take home and add to my collection.
+
+ : If it's souvenirs you want, sir, just visit our souvenir shop. It has everything.
+
+
+Are you kidding? Whoever heard of paying for hotel souvenirs?
+
+ : No problem at all, sir. Housekeeping will deliver you all the amenities you like in a bit.
+
+
+
+
+
+I need some more amenities, please.
+
+ : I'm not sure I'm following you, sir.
+
+
+Specifically, I'm talking about the little things, like soap and shampoo.
+
+ : Oh, now I understand! So, you've already used up all your amenities?
+
+
+No, I'm not even halfway through my supply.
+
+ : I'm losing you, sir. What's the problem?
+
+
+What's the use of going to a hotel if you don't take home souvenirs?
+
+ : Okay, I got it. You're collecting souvenirs!
+
+
+There you go. My friends expect me to bring home souvenirs.
+
+ : Have you visited our souvenir shop, sir? It's loaded with all kinds of items.
+
+
+I've never paid for a hotel souvenir in my life, and I don't intend to start now.
+
+ : Sir, housekeeping will bring you a basketful of amenities momentarily.
+
+
+I need to copy a document immediately.
+
+ : We have a copy machine in our computer lab, located on the first floor.
+
+
+Great! How much is it for a copy?
+
+ : The price per copy is ten cents.
+
+
+That sounds reasonable. I'll be down there immediately.
+
+ : THere shouldn't be any long lines, sir.
+
+
+
+
+
+
+I need to copy something right now.
+
+ : Our computer lab on the first floor has a copy machine, sir.
+
+
+Great! How much per copy?
+
+ : Sir, one copy is ten cents.
+
+
+I'll be down there shortly.
+
+ : You probably won't have to wait for anyone, sir.
+
+
+
+
+
+
+I need to make a copy of something at once.
+
+ : There's a copy machine on the first floor in our computer lab, sir.
+
+
+Fantastic! Is there a charge?
+
+ : It's ten cents a copy, sir.
+
+
+I'm only making one copy, so I guess I can afford it.
+
+ : A dime is still a bargain, sir.
+
+
+
+
+
+
+I need to make a copy of a document as soon as possible.
+
+ : No problem, sir. There's a copy machine in our computer lab.
+
+
+Very good. How much does each copy cost?
+
+ : Each copy will cost you a dime, sir.
+
+
+A dime? I remember when copies used to cost a nickel.
+
+ : There aren't many things you can get for a nickel, sir.
+
+
+
+
+I need a doctor immediately!
+
+ : Sir, is everything all right?
+
+
+My wife just collapsed on the floor!
+
+ : Sir, I need you to calm down. Take deep breaths.
+
+
+I'm sorry. It's just that my wife. I need the emergency room.
+
+ : Sir, I'm dialing 911 on another line.
+
+
+What's taking you so long?
+
+ : I'm transferring you right now. Just remain calm.
+
+
+
+
+
+
+Help me! I need a doctor!
+
+ : What is the problem, sir?
+
+
+My wife is on the floor!
+
+ : Sir, please calm down. Take a deep breath.
+
+
+I need some help, right now!
+
+ : Sir, I'm going to put you through to 911.
+
+
+Hurry, please!
+
+ : I'm transferring you right now, sir.
+
+
+
+
+
+
+I need a doctor right now!
+
+ : Tell me the problem, sir.
+
+
+My wife just passed out!
+
+ : Sir, it's difficult to understand you. Please take a deep breath and calm down.
+
+
+Don't tell me to calm down! My wife is passed out!
+
+ : I'm getting 911 on another line, sir.
+
+
+Okay, but hurry.
+
+ : Stay calm, sir, and talk clearly.
+
+
+
+
+
+
+Get a doctor here, immediately!
+
+ : What's the problem, sir?
+
+
+My wife is on the floor, she's unconscious!
+
+ : Sir, could you calm down a little bit, please?
+
+
+Calm down?! My wife is unconscious, and you're telling me to calm down?!
+
+ : Hold on just a second, sir. I'm dialing 911.
+
+
+Hurry up, please.
+
+ : I'm connecting you now, sir.
+
+
+
+
+
+A doctor! I need a doctor!
+
+ : Give me some details, sir.
+
+
+Something is wrong with my wife. She's lying on the floor.
+
+ : Sir, if you don't calm down, you might have a stroke yourself.
+
+
+You're right, I'm beside myself with worry.
+
+ : Hold on, sir. I'm connecting you with 911.
+
+
+Time is critical. Hurry up!
+
+ : I hope everything turns out well, sir. Here's 911.
+
+
+I'd like to order broadband internet for my laptop.
+
+ : Just plug the Ethernet cable into your computer, and a prompt will tell you the payment options.
+
+
+I don't have an Ethernet port. My computer runs entirely on wireless service.
+
+ : That's too bad. But there are several alternatives, if you want to hear them.
+
+
+Yes, please! Tell me about the alternatives.
+
+ : We run a fully equipped computer lab on the first floor.
+
+
+Very good. How much does that cost?
+
+ : The service is free to hotel patrons. However, printing costs ten cents per page.
+
+
+I see. And the other alternatives?
+
+ : Alternatively, we do offer wireless in our lobby. You can bring your laptop down here.
+
+
+Great! What if I need to print something in the lobby?
+
+ : You would have to use the computer lab. I'm sorry for the inconvenience.
+
+
+
+
+
+
+I need broadband for my computer.
+
+ : No problem. Just plug the Ethernet cable into your computer, and you're good to go.
+
+
+That's a problem. My laptop has no Ethernet port, it's wireless only.
+
+ : Hmm. Well, we have some alternatives, if you're interested.
+
+
+Go ahead. I'm all ears.
+
+ : We have a computer lab on the first floor.
+
+That's great! How much is it?
+
+ : It's absolutely free to guests. Except for printing, of course.
+
+
+What about the other alternatives?
+
+ : You could use your wireless right here in our lobby.
+
+
+Yes, that's the ticket! And if I need to print something there?
+
+ : Well, we don't have a printer in the lobby yet. You'll have to use the lab.
+
+
+
+
+
+
+I'd like to get busy on my computer, but I need some broadband.
+
+ : There's an Ethernet cable in your room. Just plug it into the back of your laptop.
+
+
+I can't use Ethernet. My computer is wireless only.
+
+ : That's okay. I can tell you about some alternatives we have.
+
+
+Any alternative that works will be great.
+
+ : Well, there's our computer lab on the first floor.
+
+
+That sounds good. What's the charge?
+
+ : The lab and the computers are no charge, but you have to pay for whatever you print.
+
+
+That sounds good. Now, how about the other alternatives?
+
+ : Of course. Our lobby is set up for wireless, so just bring your computer down here.
+
+
+Use my laptop in the lobby? That's great! Now, if I need to print something there?
+
+ : They plan to install a printer here. But until then, you'll have to use the lab.
+
+
+
+
+
+
+I can't get going on my computer until I get a broadband hookup.
+
+ : Just plug the Ethernet cable into your computer, and you'll be off and running.
+
+
+That would be okay if I had an Ethernet port. Unfortunately, my laptop uses wireless only.
+
+ : In that case, let me tell you about some alternatives.
+
+
+Anything to get me up and running.
+
+ : For starters, we have a computer lab.
+
+
+Fantastic! What do I have to pay per hour?
+
+ : The lab is completely free. But you do have to pay a dime a page for printing.
+
+
+That's fine. Now tell me about the other alternatives.
+
+ : Just bring your laptop down here to the lobby. We're set up for wireless right here.
+
+
+Great! I like that suggestion, but what if I need to print something there?
+
+ : Unfortunately, you'll have to go to the computer lab for your printing needs.
+
+
+
+
+
+How do I get online with my laptop?
+
+ : Just plug the Ethernet cable into your computer, and you'll be online in a heartbeat.
+
+
+I see the cable. But my computer runs on wireless only.
+
+ : No problem. I'll tell you about our alternatives.
+
+
+Yes, I'd love to hear what the alternatives are.
+
+ : Our state-of-the-art computer lab is on the first floor.
+
+
+Great! But is it free?
+
+ : Sir, the computers are free to guests, but you do have to pay a nominal printing fee.
+
+
+You said there were other alternatives?
+
+ : Just use your computer here in the lobby. It's set up for wireless.
+
+
+That sounds like a winner. Now if I need to print something in the lobby?
+
+ : We might have a printer here next month. But for now, you'll have to go to the lab.
+
+
+I'd like to order a restock on my minibar.
+
+ : You finished everything in there, sir?
+
+
+Absolutely everything.
+
+ : What would you like to order?
+
+Three bottles each of Perrier and Jim Beam.
+
+ : Uh-huh. What else do you want?
+
+
+The apples were great. Could you bring a couple more up?
+
+ : No problem. Is there anything else I can get for you?
+
+
+Some grape juice would also be nice.
+
+ : I'll get all of that for you right away. Someone should be up shortly.
+
+
+
+
+
+
+I need my minibar restocked.
+
+ : Everything is gone, sir?
+
+There's not a drop left of anything.
+
+ : Is there anything in particular you'd like?
+
+
+Yes, the Perrier and the Jim Beam hit the spot. Let me have three more of each.
+
+ : Got it. Anything else?
+
+
+I really liked the apples. Bring me a couple of apples, please.
+
+ : Not a problem. Anything else?
+
+
+Yes, one more thing: some grape juice.
+
+ : Someone will be up shortly with your order, sir.
+
+
+
+
+
+
+My minibar is empty.
+
+ : You already finished off everything, sir?
+
+I finished off everything.
+
+ : Would you like anything in particular?
+
+
+The Perrier and the Jim Beam. Let me have three more of each.
+
+ : Beam and Perrier. Anything else, sir?
+
+
+I really loved the apples in my room. Bring me a few more, please.
+
+ : Sure thing. Might there by anything else?
+
+
+Yes, speaking of fruit, bring me some grape juice, too.
+
+ : Perrier, Jim Beam, apples, and grape juice. It will all be there shortly, sir.
+
+
+
+
+
+
+How do I restock my minibar?
+
+ : You've drunk everything, sir?
+
+I finished it all.
+
+ : Do you want the whole minibar, or just certain items?
+
+
+Send me up three bottles each of Perrier and Jim Beam.
+
+ : That's three Jim Beams and three Perriers. Anything else, sir?
+
+
+The apples in my room were delicious. Bring me a few more, please.
+
+ : Okay. Are you sure there isn't anything else?
+
+
+You know, some grape juice would be really nice, too.
+
+ : Be patient for just a few minutes, sir, and someone will be at your door.
+
+
+
+
+
+My minibar is completely empty.
+
+ : Everything in that minibar has been consumed, sir?
+
+Everything's gone.
+
+ : Is there anything special you'd like?
+
+
+Just bring me three bottles each of Jim Beam and Perrier.
+
+ : Okay, sir. Three of each. Would you like anything else?
+
+
+The fruit basket was great. I need a few more apples, please.
+
+ : Perrier, Jim Beam, and apples. Is that it for now?
+
+
+Yes, one last thing: I could use some grape juice.
+
+ : Your order will be brought to you momentarily, sir.
+
+
+Is there a swimming pool in this hotel?
+
+ : We don't have a full-sized swimming pool, but we do have individual swim stations.
+
+
+What exactly does that mean?
+
+ : Basically, a swim station is like a treadmill, except instead of running, you swim.
+
+
+That sounds really neat. Is there an extra charge for these swim stations?
+
+ : If you're a registered guest, you have free access to our swim stations.
+
+
+Are the swim stations open 24 hours, like the rest of the gym?
+
+ : To conserve electricity, the stations operate only from 7.00 a.m. till 10.00 p.m.
+
+
+I'll go down there as soon as I can!
+
+ : I don't think you'll be disappointed. People really seem to like the swim stations.
+
+
+
+
+
+
+Does this hotel have a pool?
+
+ : I'm sorry, sir, we don't have one. However, in our gym, we do have swim stations.
+
+
+I'm not sure I understand.
+
+ : Think of a deep bathtub that you can swim in, but against a current.
+
+
+Cool. What will they think of next? How much are they?
+
+ : Sir, guests pay nothing to use the stations.
+
+
+Excellent! Now what are the hours?
+
+ : The gym is open 24/7, but the stations are open from 7 a.m. to 10 p.m. only.
+
+
+I'm going to change into my trunks right now!
+
+ : I think you'll like the experience, sir. It's a great workout.
+
+
+
+
+
+
+Do you have a swimming pool in this hotel?
+
+ : We don't have a pool, sir, but we do have swim stations in the gym.
+
+
+I never heard of a swim station. Is that like a train or bus station?
+
+ : It's just a deep bathtub with a current of water that you swim against.
+
+
+Holy cow! I never heard of such a thing. How much do they cost?
+
+ : As a guest, sir, you pay nothing.
+
+
+This sounds better every second. Now, when can I use the stations?
+
+ : If you want to swim, you can visit the gym any day between 7 a.m. and 10 p.m.
+
+
+Oh, boy! This is going to be great. I'm going to the gym right now!
+
+ : I'm sure you'll enjoy your workout, sir. Everyone seems to like the swim stations.
+
+
+
+
+
+I think I've looked everywhere, but I haven't seen a swimming pool here.
+
+ : This hotel has no full-size pool, but we do have swim stations in our gym.
+
+
+Swim stations? Whoever heard of such a thing?
+
+ : You swim in a swim station just like you run on a treadmill.
+
+
+All that exercise in a little pool! Do I have to pay anything?
+
+ : The swim stations are available to all guests for no charge.
+
+
+Very good. Now can you tell me the hours of operation?
+
+ : They're available anytime between 7 a.m. and 10 p.m., seven days a week.
+
+
+Wow! I can't wait to change into my trunks!
+
+ : The swim stations are very popular, sir. I hope you don't find a line down there.
+
+
+
+
+
+
+I've been looking for a swimming pool, but I haven't found one yet.
+
+ : We have no pool, sir, but we do have swim stations in our gym.
+
+
+Swim stations? Could you be a little more explicit?
+
+ : You know how you run on a treadmill but don't go anywhere? Well, it's the same thing.
+
+
+Gee, that's a great idea. Now, how much do I have to pay?
+
+ : The stations are absolutely free to guests, sir.
+
+
+Great! Now, when can I go down there and use the stations?
+
+ : The swim stations are open daily from 7 a.m. to 10 p.m.
+
+
+Boy, oh boy! I can't wait to change into my swim trunks.
+
+ : Be warned, sir. At certain hours the swim stations are very crowded.
+
+
+
+I need to get a taxi.
+
+ : We have a variety of transportation services. Would you prefer a private vehicle to a taxi?
+
+
+No, that won't be necessary. I just need a taxi.
+
+ : Perhaps you'd prefer a limousine. That's such a stylish way to travel.
+
+
+Just a taxi, please.
+
+ : And what is your destination?
+
+I'm going to Rockefeller Center.
+
+ : I see. What time do you want to depart from the hotel?
+
+
+I want to leave as soon as possible.
+
+ : Okay, a taxi will arrive in seconds, sir.
+
+Thank you, I'm coming down now.
+
+ : It won't be but a few seconds, sir.
+
+
+
+
+
+
+I need a taxi, please.
+
+ : We have various transportation services. Would you prefer a private vehicle?
+
+
+No, thanks. A taxi is just fine.
+
+ : May I suggest a limo? It's nice to pamper yourself once in a while.
+
+
+I don't want anything except a taxi, thank you.
+
+ : I understand. And where will you be going?
+
+
+Rockefeller Center.
+
+ : And what time would you like to be picked up?
+
+The sooner the better.
+
+ : A taxi will be here shortly, sir.
+
+
+Great! And remember, a taxi, not a limo.
+
+ : A taxi it is, sir.
+
+
+
+
+
+
+Can you get me a taxi?
+
+ : We offer various types of transportation. Perhaps you'd like to upgrade to a private vehicle?
+
+
+Thanks, but no thanks. A taxi will do just fine.
+
+ : In that case, how about a limo? Then you can travel in style.
+
+
+No, I hate limousines. They're gas guzzlers.
+
+ : Got it, sir. Where would you like the taxi to take you?
+
+
+My destination is Rockefeller Center.
+
+ : What time do you want to leave the hotel?
+
+
+As soon as possible.
+
+ : I'll call the taxi immediately, sir.
+
+I'm coming downstairs now.
+
+ : A brand new taxi is pulling up now, sir.
+
+
+
+
+
+I'm going to need a taxi.
+
+ : You don't have to restrict yourself to a taxi. We can offer you a private vehicle.
+
+
+A private vehicle, huh? No, a taxi is okay.
+
+ : Some people find a limo to be much more comfortable than a taxi.
+
+
+No, I wouldn't be caught dead in a limo.
+
+ : No upgrade of any kind. And where might you be going?
+
+
+I'm headed to Rockefeller Center.
+
+ : When shall I tell the taxi to be here?
+
+
+Right now.
+
+ : The taxi will be here immediately, sir.
+
+Good, I'm leaving my room in about one minute.
+
+ : You won't have to wait a second, sir.
+
+
+
+
+
+
+I need a taxi.
+
+ : We could easily provide you with a private vehicle, if you'd prefer.
+
+
+No, the taxi will do.
+
+ : Perhaps you'd like to take a beautiful limousine.
+
+
+No, thank you. Taxis and I get along just fine.
+
+ : No private vehicle, no limo. Got it. Where are you going?
+
+
+I'm seeing a show at Rockefeller Center.
+
+ : What time should the taxi be here to pick you up?
+
+I'm ready to go right now.
+
+ : I'll have a taxi for you momentarily, sir.
+
+
+Great! As soon as I brush my teeth, I'll be downstairs.
+
+ : You'll enjoy our new, clean taxis, sir.
+
+
+
+
+
+Could you please reserve a taxi for me?
+
+ : Do you think a private vehicle might be more to your liking?
+
+
+A private vehicle? No, thanks, I won't need one.
+
+ : Even better than a private vehicle is a limo. How does that sound?
+
+
+T A X I, please.
+
+ : A taxi it is. Where will you be headed?
+
+
+Rockefeller Center. Can you get the taxi here immediately, please?
+
+ : A taxi will be here in just a minute, sir.
+
+
+Good. I'll get my coat and come downstairs.
+
+ : The taxi will be ready when you are, sir.
+
+
+I am checking out. Here is the key to my room.
+
+ : Thank you. I'll just print out your receipt, and then you're free to go. Here you go!
+
+
+Thanks.
+
+ : If you don't mind me asking, how did you enjoy your stay at New York Hotel?
+
+
+This hotel could use some insecticide, but my time in New York was thoroughly delightful.
+
+ : That's very honest of you. Rest assured that this hotel will have no insects next time.
+
+
+
+
+
+I want to check out. Here is my room key.
+
+ : One second, sir, while I print out your receipt. Here you are.
+
+
+Thanks.
+
+ : May I ask, sir, if you enjoyed your stay?
+
+
+Except for one night, I enjoyed the hotel. And I loved New York, of course.
+
+ : Thank you for your honesty. I assure you there will be no cockroaches next time.
+
+
+
+
+
+I'm leaving. Here is my key.
+
+ : Just one second, sir, and I'll give you your receipt. Here you go.
+
+
+Thank you very much.
+
+ : Sir, did you enjoy your stay here?
+
+
+Most of my time here was pleasant. And New York itself is fantastic.
+
+ : I'm glad you enjoyed the city, anyway. But please don't think too unkindly of us.
+
+
+
+
+
+
+I'm out of here. Here's my key.
+
+ : Give me just a few seconds, sir, and I'll hand you your receipt. Here you are.
+
+
+I thank you.
+
+ : I hope you enjoyed your stay, sir.
+
+
+I only had nine little problems here. Other than that, I enjoyed my stay, and I loved the city.
+
+ : I apologize again for the cockroaches, sir. I hope you have a nice trip home.
+
+
+
+
+
+My stay is over. Here's the key to my room.
+
+ : Thank you. And here's your receipt, sir.
+
+
+Many thanks.
+
+ : I hope your stay here was satisfactory, sir.
+
+
+This could be a great hotel, once you get rid of the insects. The city itself is great.
+
+ : I'm glad that the little problem didn't ruin your visit. Please have a pleasant trip home.
+
+
+
+
+
+
+This visit is over for me. Here's your room key.
+
+ : Thank you for that, and in return, here's your receipt.
+
+
+And thanks to you.
+
+ : I hope you'll visit us again, sir.
+
+
+I'd be willing to try this hotel again, if you can promise me no more cockroaches.
+
+ : I guarantee you that our little “friends” won't be back. I hope your trip home is pleasant.
+
+
+
+My amenities bill says that I owe $10 for a movie, but I never ordered one.
+
+ : Let's see. It says that you were charged Monday at 9.00 p.m. for the movie "Titanic."
+
+
+That's absolutely wrong! I was out exploring the city Monday night.
+
+ : Okay, let me see what I can do.
+
+
+Thank you. I didn't think it would be this simple.
+
+ : I can take the $10 off your bill, but I need to charge you $2 for the service.
+
+
+Are you serious? I have to pay $2 for a movie I never watched?
+
+ : Unfortunately, sir, it's how the computer is programmed.
+
+
+This is outrageous! I'm never coming back to this hotel again!
+
+ : I'm sorry, sir. Perhaps you'd like to write a letter to headquarters.
+
+
+
+
+
+I just discovered that I owe $10 for a movie that I never ordered.
+
+ : Let me check, sir. You were charged for watching "Titanic" Monday night.
+
+
+That is absolutely incorrect! I was out on the town Monday night.
+
+ : Okay, sir, bear with me a moment.
+
+
+Thank you for taking my word over the computer's word.
+
+ : One slight problem, sir. I need to charge you $2 to remove this error from your file.
+
+
+You can't be serious. You're making me pay $2 for a movie I never watched?
+
+ : I feel your pain, sir.
+
+
+Absolutely unbelievable! You people should be ashamed of yourselves.
+
+ : I agree with you, sir, but all I do is work here.
+
+
+
+
+
+You guys are charging me $10 for a movie that I never ordered or saw.
+
+ : Let's see, sir. According to your file, you watched "Titanic" Monday evening.
+
+
+The wrong information is in my file. I was at a concert Monday night.
+
+ : Well, your word overrules the file, sir. One moment, please.
+
+
+I knew you'd see it my way.
+
+ : Sir, I deleted the $10, but I had to add a $2 service charge to your bill.
+
+
+Am I in the Twilight Zone? You're charging me for a movie I never saw?
+
+ : Please don't blame me, sir. Blame the computer programmer.
+
+
+This is highway robbery. I've got a good mind to call the police!
+
+ : If it makes you feel any better, other guests feel the same way.
+
+
+
+
+
+
+Why am I being charged $10 for a movie that I never ordered?
+
+ : Sir, according to your file, you spent Monday evening watching "Titanic."
+
+
+The file is wrong. I was at a great concert that night.
+
+ : Well, this wouldn't be the first time that a file was wrong. Just a moment, please.
+
+
+Thank you for taking care of it so quickly.
+
+ : Sir, when I deleted the $10, the program automatically added a $2 service charge.
+
+
+You can't do that! You can't charge me for a mistake that you made!
+
+ : Sometimes you can't win for losing, sir.
+
+
+Now I've seen it all! What a rip-off this place is!
+
+ : I don't blame you, sir. Two dollars is a lot of money.
+
+
+
+
+
+
+I need to know why I'm being charged $10 for a movie that I never ordered.
+
+ : Hmm. Your file shows that you watched "Titanic" Monday night.
+
+
+Monday night? Monday night I was at a great concert.
+
+ : Well, as they say, garbage in, garbage out. Let me correct this error, please.
+
+
+Thank you. It's very nice when problems can be solved quickly.
+
+ : When I deleted the $10, the computer automatically added a $2 service charge.
+
+
+Are you crazy? You made the mistake and now you're charging me for your mistake?
+
+ : Sir, if it makes you feel any better, the $2 service fee used to be $5.
+
+
+Why don't you just stick a gun in my ribs and take everything I have?
+
+ : Unfortunately, sir, you'll have to pay the $2, whether you like it or not.
+
+
+
+I'm checking out in about half an hour.
+
+ : Whenever you're ready to check out, I'll be ready, sir.
+
+
+Great! As you know however, the day in New York has hardly begun.
+
+ : You're right. It's only 9.00 a.m.
+
+
+Therefore, I think I'll explore New York some more. But I need to store my bags.
+
+ : Sir, our storage facility is merely $5 an hour. You also need to leave a deposit.
+
+
+My luggage isn't enough of a deposit?
+
+ : Unfortunately, it isn't. VISA or MasterCard will suffice, though.
+
+
+Let me put on my thinking cap for a moment.
+
+ : Better hurry, sir. Remember you have to check out in less than half an hour.
+
+
+
+
+
+I should tell you that I'm checking out in about 30 minutes.
+
+ : I'm ready when you are, sir.
+
+
+Very good! Now, it's still morning here in New York.
+
+ : You are so right, sir. The clock just struck nine.
+
+
+I'm going to spend some time exploring the city. What can I do with my luggage?
+
+ : Sir, right here we have a storage site. Its only $5 an hour, but you need to leave a deposit.
+
+
+A deposit? Isn't my luggage a deposit?
+
+ : I'm sorry, sir, but it isn't. Your MasterCard or VISA will take care of things nicely.
+
+
+Let me think about this.
+
+ : Okay, sir. But don't take too long. You only have 30 minutes.
+
+
+
+
+
+Do you know that I'm checking out in about 30 minutes?
+
+ : Just say the word, sir.
+
+
+Excellent! Now, as you know, the day has barely begun.
+
+ : I agree. The dew is still on the grass.
+
+
+I want to hit a few more places in the city, but I need a place to put my luggage.
+
+ : We do have a storage space for your bags. There's a small charge, plus a deposit.
+
+
+Leave a deposit? Isn't leaving the luggage enough of a deposit?
+
+ : Regrettably, no. But simply present your VISA to cover your deposit.
+
+
+I'll have to think about this for a second.
+
+ : Okay, sir, but don't think too long. Your checkout is only 30 minutes away.
+
+
+
+
+
+In case you didn't know, I'm checking out in half an hour.
+
+ : That won't be a problem, sir.
+
+
+That's good to hear. Now there's still a whole New York day ahead of me.
+
+ : You're right, sir. Your whole day is still ahead of you.
+
+
+I still have time to explore more of New York, but I need a place to secure my baggage.
+
+ : We have a storage place here, but you have to leave a deposit.
+
+
+A deposit, huh? I would think my baggage would be enough of a deposit.
+
+ : Just present your VISA card, and there won't be any problems.
+
+
+That deposit bothers me. Give me a minute.
+
+ : Okay, sir, but remember how close it is to your checkout time.
+
+
+
+
+
+I'll be checking out of the hotel in about 30 minutes.
+
+ : Thirty minutes or 30 seconds, sir, it doesn't matter, I'm ready for you.
+
+
+Great! As you know, however, the day in New York has hardly begun.
+
+ : There's nothing like getting an early start, sir.
+
+
+What can I do with my baggage while I visit a few more tourist spots?
+
+ : You can leave your baggage in our storage space, with a deposit.
+
+
+Isn't my baggage enough of a deposit?
+
+ : I wish it was, but it isn't. They will still want a credit card.
+
+
+It's always something, isn't it? Let me think about this for a second.
+
+ : Don't forget that you have very little time, sir, before you have to check out.
+
+
+I'd like to leave a parcel for one of my friends. Is that okay?
+
+ : All I need is your name, the name of your friend, and the time of pick-up.
+
+
+All of that's on the package. Can I just bring it down to your desk?
+
+ : That would be most convenient for me. Thanks for your consideration!
+
+
+
+
+
+I want to leave a parcel for a friend to pick up. Can I do that?
+
+ : Just tell me your name, your friend's name, and when your friend is coming by.
+
+
+I'll put all that information on the package and just bring it down to you. Is that okay?
+
+ : That sounds great, sir. Thank you.
+
+
+
+
+
+Can I leave a parcel with you for one of my friends to pick up later?
+
+ : I just need your name and your friend's name. Also, tell me when he is coming by.
+
+
+How about if I write all that on the package and then bring it down to you?
+
+ : Perfect. Thank you for doing that.
+
+
+
+
+
+I've got a parcel here that a friend is going to pick up. Can I leave it with you?
+
+ : No problem. Just tell me your name, his name, and when he's coming by.
+
+
+I'll just write all that info on the parcel itself and then bring it to you.
+
+ : Sir, you make my work too easy. Thank you.
+
+
+
+
+
+
+A friend is picking up a parcel. Can I leave the parcel with you?
+
+ : By all means, sir. Just give me your name, his name, and when he will be coming by.
+
+
+I can put all of that right on the package and then bring it down to you, if that's okay.
+
+ : Well, thank you for doing that, sir. I wish all guests were like you.
+
+
+I'm calling to cancel a reservation I made earlier in the week.
+
+ : To cancel your reservation, I need your name, phone number, and date of trip, please.
+
+
+Rudy Randolph, 818-555-1234. My reservation begins on the second Monday of April.
+
+ : I see your reservation on my computer. Let me just cancel it, and you'll be all set!
+
+
+Thanks. I'll call again when things get better at home.
+
+ : You're welcome.
+
+
+
+
+I need to cancel my reservation. I have personal matters that need fixing.
+
+ : That's not a problem. Just give me your name, phone number, and date of visit.
+
+
+Rudy Randolph, 818-555-1234, April 9 through 15.
+
+ : I see your info here on the screen. I'll hit just one button, sir, and you're cancelled.
+
+
+Thank you. I'm glad that wasn't too much of a bother.
+
+ : It's a pleasure.
+
+
+
+
+
+
+I made a reservation earlier this week, but I have to cancel it.
+
+ : No problem, sir. Just tell me your name, phone number, and date of reservation.
+
+
+Great! I'm Rudy Randolph, 818-555-1234, and my reservation was for April 9 to 15.
+
+ : Sir, let me hit the delete button, and your reservation will be cancelled.
+
+
+That was nice and fast. Thanks.
+
+ : Not at all.
+
+
+
+
+
+I hate to do this, but I've got to cancel a reservation I made earlier this week.
+
+ : All I need is your name, phone, and reservation date.
+
+
+My name is Rudy Randolph. I'm at 818-555-1234. The reservation was for April 9.
+
+ : Randolph, Rudy. Let me hit one button, sir, and now your reservation is cancelled.
+
+
+Thank you. I'll make another reservation as soon as I can.
+
+ : It's been my pleasure to help you.
+
+
+
+
+
+
+My wife is sick, so I have to cancel a reservation I made.
+
+ : If you'll just give me your name, phone, and date of visit, I can cancel your reservation.
+
+
+I'm Rudy Randolph at 818-555-1234, April ninth to the fifteenth.
+
+ : Mr. Randolph. Okay, one second, sir, and there you go. Your reservation is now cancelled.
+
+
+I wish everything in life was so simple, thank you.
+
+ : Not a problem, sir. Please remember us in the future.
+
+
+
+
+I'd like a room for two people, for three nights please.
+
+ : Ok, I just need you to fill in this form please.
+
+
+Do you want breakfast?
+
+ : Yes, please.
+
+
+Breakfast is from 7 to 10 each morning in the dining room. Here is your key. Your room number is 345, on the third floor. Enjoy your stay. : Thank you.
+
+
+
+
+
+I'd like a room please. : Do you have a reservation?
+
+
+No, I don't.
+
+ : How many nights?
+
+
+Two nights, please. : For two people?
+
+
+Yes.
+
+ : Do you want breakfast?
+
+
+No, thank you.
+
+ : Ok, that will be $210. Do you want to pay now, or when you check out?
+
+
+I'll pay now. : Can you fill this in, and sign here please.
+
+
+Thank you. Here is your receipt and your key. You are in room 231, on the second floor.
+
+
+
+I'd like to check out please. : What room number?
+
+
+231. : That's $250 please.
+Thank you. Sign here please. Have a good journey.
+
+ : Thank you.
+
+
+
+Hello Tui, it's Jane. : Hi Jane.
+
+
+I was thinking about having a few days away at the weekend. Will you be able to join me?
+
+ : That sounds great. Where were you planning to go?
+
+
+I would like to stay in London. : 
+I enjoy visiting London. There is so much to see.
+
+
+I will book two single rooms at the Holiday Inn. It is situated just off Oxford Street. : If we are near Oxford Street, we are very close to the big stores.
+
+
+I will book today. : Is it very expensive?
+
+
+Most good London hotels are expensive but we can get a special three day weekend break offer. : What does that cover?
+
+
+We get bed and breakfast and £20 towards the cost of dinner. : 
+That sounds fine. Let me know when you've had our booking confirmed.
+
+
+I will pay by credit card over the phone. : Is it okay if I pay you when we leave on Friday?
+
+
+Yes, of course.
+
+ : I'm looking forward to our weekend away.
+
+
+
+Hello, I've booked two single rooms. My surname is Major. : 
+Welcome to the Holiday Inn, Oxford Street. Please sign the register.
+
+
+I can visit Oxford Street from here. : 
+Here are your room cards. When you insert them into the slot on your room door, the light will change from red to green. When the green light is on, your room is unlocked.
+
+
+
+Good morning, Bella Hotels “Room
+Reservation”. This is (name) speaking. How may I help you?
+
+ : Good morning. I would like to make a reservation
+please.
+
+
+Alright sir/ma’am. Please wait for a
+ moment. I will check if there are still available rooms, Thank you for 
+waiting. How many nights do you planned to
+stay in sir/ma'am?
+
+ : I am going to stay for 4 nights.
+
+
+What kind of room would you like to stay in
+sir/ma'am? : May I know the kinds of room and your facilities?
+
+
+Certainly sir/ma'am. We have three kinds of room,
+the suite room, the executive room, and the deluxe room.Which one do you prefer sir/ma’am?
+
+ : I would prefer the deluxe room with free breakfast and
+ dinner.
+
+
+Your preferred room and free offer is noted.
+How many people is the reservation for? : The reservation is for two.
+
+
+May I know the exact date and time of your
+arrival?
+
+ :I will be arriving at Feb 3, 2016 at 11.30 a.m.
+
+
+Can you please state your full name?
+
+ : I am (name).
+
+
+Ok Sir/Ms.(name). Can you please tell your
+address and contact number?
+
+ : My address is 19, Orville Village, Marikina
+City and my contact number is 335-6790.
+
+
+Alright sir/ma’am, I repeat. Your address is
+19, Orville Village, Marikina City and your contact number is 335-6790. : 
+
+Yes, that’s it.
+
+
+Your address and contact number is noted. How
+will you pay the bill sir/ma’am, through credit card or cash? : Through cash.
+
+
+Alright sir/ma’am, I will repeat all the
+information I got from you. You are (name). You will arrive here at Feb 3,
+2016 at exactly 11.30 a.m. You will be staying in the deluxe room and you will pay through cash. : Yes, you said it correctly.
+Ok sir/ma’am. Your reservation is noted. Is
+ there anything else I can do for you?
+
+ : That would be all. Thank you for assisting me Mr/Ms.(name).
+
+
+You’re welcome sir/ma’am. We look forward to
+ your visit and thank you for choosing Bella Hotels.
+
+
+
+Good morning, Pine trees Hotel. How can I help you today? : Hello, I would like to book a room for tonight / Friday, August 15th /  the 20th till the 23rd.
+
+
+What kind of room would you like?
+
+ : I would like a double room, please.
+
+
+Please hold on I will check ....  I am afraid we only have single room available. Tomorrow we will have a double room
+
+. : OK that will do. How much for a single room?
+
+
+Forty pounds including vat / excluding vat / before vat. : 
+Are meals included in that price?
+
+
+Yes, your breakfast and dinner are included and are served in our dining room.
+
+ : That’s great; I will take a single room for tonight and change to a double room tomorrow.
+
+
+Can you give me your credit card details so we can book your room....
+
+
+Welcome to the Wyatt Hotel. How may I help you? : 
+I’d like a room please?
+
+
+Would you like a single or a double? : 
+I’d like a double, please?
+
+
+May I have your name, please?
+
+ : Timothy Findley.
+
+
+Could you spell that please?
+
+ : F-I-N-D-L-E-Y.
+
+
+How many are in your party? : Just two.
+
+
+How many nights would you like to stay?
+
+ : Just tonight.
+
+
+How will you be paying?
+
+ : Is Visa OK? 
+That’ll be fine. Would you like a wake-up call?
+
+ : Yes, I’d like a wake-up call for 6.30. Do you have a pool?
+
+
+Yes, we do. On the 2nd floor. Here’s your key. That’s room 405 on the fourth floor.
+
+
+Hi, my name is Suzuki and I have a reservation for tonight.
+
+ : Let me check. OK, yes. A twin room for one night.
+
+
+That’s right.
+
+ : You are in room 408. How would you like to pay for the room?
+
+
+Do you take American Express Travelers Checks?
+
+ : Certainly, are they in American funds?
+
+
+No, in Canadian. Is that OK?
+
+ : Yes, no problem. With the exchange, that comes to 83.76 dollars Canadian.
+
+
+Do I pay now or when I check out.
+
+ : In advance, please.
+
+Here you go.
+
+ : The elevator is just around the corner. Do you need any help with your bags?
+
+
+No thanks. I can manage myself.
+
+ : Is there anything else we can do to help you enjoy your stay?
+
+
+Can you give me a wake-up call at 7.00?
+
+ : We don’t do that from here. You can use the clock radio in the room, or you can program the telephone in your room to ring at 7.00.
+
+
+Oh, yes. I have a meeting downtown tomorrow. Does this hotel have a shuttle bus?
+
+ : No, I’m afraid we don’t, but we will be happy to call a taxi for you if you provide us with the details.
+
+
+No, that won’t be necessary. I can call from my room.
+
+ : There are no charges for local calls.
+
+
+
+
+Hi there. Are you checking out now? : Yes, sorry. I know we’re a few minutes late.
+
+
+That’s no problem. It’s always really busy at check out time anyway.
+
+ : Oh, really. The last hotel we stayed in charged us for a late check out.
+
+
+The hotel isn’t booked this week, so it’s not a problem. How was everything?
+
+ : The room was great. The beds were really comfortable, and we weren’t expecting our own 
+fridge.
+
+
+I’m glad you liked it.
+
+ : The kids were disappointed that the pool wasn’t open this morning, though.
+
+
+I apologize for that. We can’t get a cleaner in any earlier than 10 am. : Well we had a nice swim last night anyhow.
+
+
+Will you be putting this on your credit card? : No. I’ll pay cash.
+
+
+OK. So the total comes to $123.67, including tax. : I thought it was $115 even. That’s what they said yesterday when we checked in.
+
+
+Yes, but there is an extra room charge on your bill. : 
+Oh, I forgot. My husband ordered a plate of nachos. Sorry.
+
+
+No problem. So…from $140, here’s your change. Now, I’ll just need to ask you for 
+your room keys. 
+
+Good morning Sir. May I help you? : Good morning. I need a room.
+
+
+Do you require a single or double room or a suite? : 
+Well! A single room will do.
+
+
+Please fill your name in this register.
+ : May I know the tariff please?
+
+
+It's nine hundred rupees a day. : 
+Does it include breakfast?
+
+
+No sir. It's just for the accommodation sir. : 
+Is the room air conditioned?
+
+
+All our rooms are centrally air-conditioned. : 
+Do you have a restaurant?
+
+
+Not one. We have three. We offer Indian, Western and Chinese cuisine catered by the different restaurants.
+
+ : Well! That's good news. I can choose different cuisine for different meals.
+
+
+May I know the duration of your stay? : Tentatively, I shall write it as four days.
+
+
+That'll do. Please inform us about your extension one day earlier. : 
+Sure. By the way, do you have laundry facility here?
+
+
+Yes. Please call up the housekeeping department and they will have the clothes picked up.
+
+ : How do I get the extension phone numbers for all the departments?
+
+
+All the in-house phone numbers are in a list kept near the telephone. : 
+Oh! That will do. Thank you. You have been very helpful.
+
+
+My pleasure! I am here to help you. : 
+Thanks. Well I am rather tired. Can you please ask the bellboy to bring my luggage to the room?
+
+
+Certainly. Here's your key. : Thank you very much.
+
+
+You're welcome
+
+
+
+Hi.
+
+ : Hello, Guest Services this is Sara. How can I be of assistance?
+
+
+I would like to order room service.
+
+ : Certainly Sir, what is your room number and name, please?
+
+
+It’s room 218 and the name is Smith.
+
+ : Thank you. What would you like to order Mr Smith?
+
+
+I’d like the rump steak.
+
+ : How would you like your steak cooked?
+
+
+Medium rare, please.
+
+ : Would you like mashed potatoes and vegetables or salad and fries?
+
+
+Salad and fries thank you.
+
+ : Which sauce would you prefer? We have pepper, mushroom or red wine?
+
+
+I will have mushroom sauce.
+
+ : Okay, is there anything else you’d like Mr Smith?
+
+
+I’d also like the garden salad and a coke.
+
+ : Certainly Sir, that will be delivered to your room shortly. Enjoy your meal.
+
+
+Thank you very much.
+
+
+
+Hi, Good afternoon. I would like to stay here. : Do you have a reservation before, Madam ?
+
+
+No, I don’t have.
+
+ : Well, may I know what type of room would you like, how long will you be staying and how many person, Madam ?
+
+
+I would like one suite room for 2 nights : Please wait a moment, Madam. I would like to check the room available on that period.
+Well? : Yes a room is available. What shall be the duration of your stay?
+it’s from 15th of November 2014 until 17th of November 2014 and that’s for two person, me and my children.
+
+ : So is it final then?
+Yes, I take this room.
+ : Well Madam, please fill this registration card, and this is your pen.
+
+
+ I’ve finished to filling the registration card.
+
+ : Thank you, may I check your registration card, please?
+
+
+Yes, this is my passport.
+
+ : Thank you. 
+
+I will pay by credit card, please. What kind of credit card do you accept at your hotel? : In our hotel accept VISA and MASTERCARD credit card. 
+I will pay by VISA
+ : Well, may I borrow your credit card, Mrs.Sisca ? because I will take your deposit 100% the room rate for one night so that’s Rp. 450.
+
+Sure, this is my credit card. : Excusme, Mrs.Sisca. Enter your pin, please.
+
+Sure, thank you for your informations. : You’re welcome, Mrs.Sisca and wait a moment, please. I will call our bell boy to escort you to your room.
+

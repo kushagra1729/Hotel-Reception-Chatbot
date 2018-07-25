@@ -1,0 +1,11 @@
+What are the check-in timings? 12:00 pm
+What are the check-out timings? 11:00 am
+How many types of rooms are available? 2 types; air-conditioned and non air-conditioned.
+What is the rate of air-conditioned room? 2500 per night.
+What is the rate of non air-conditioned room? 1500 per night.
+What time does the breakfast start? 9:00 am
+What time does the breakfast end? 10:30 am
+When is hot water available? from 5:00 in the morning
+What is the intercom number for room service? 9
+What is my room number? 325
+Was my room cleaned yesterday? yes

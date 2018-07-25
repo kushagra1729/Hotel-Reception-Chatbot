@@ -1,0 +1,39 @@
+1.More than one response using random- random.choice()
+2.Answer formatting using .format()
+3.Use a dictionary
+4.Regular expressions for common phrases. Define patterns. re.search()
+5.Pronouns swap- re.sub('I', 'you', phrase)
+6.Groups in regular expressions.
+7.Defualt message - "Did not get you", If press enter key without typing anything
+8.Find whether question or statement using .endswith('?') method( check first whether / printed or not)
+9.re.compile('|'.join(keys))
+10.In room booking, you can make use of intents and entities.
+11.Intent-ML(average word vectors and cosine similarity) or (regular expressions-use \b) or Rasa_NLU- may need pre loaded data
+12.Regular expressions can be used to make templates for NER(eg capital letters)
+13.Spacy for word vectors- Stanfords CoreNLP also can be used
+14.Tokens in sentences after processing through NLP.
+15.Amazon mechanical turks while chatting with other chatbot
+16.One solution is to use nearest neighbour classification for the whole chatbot.
+17.Remove stopwords.
+18.Intent classification using word vectors of a word matched with each words of a message.
+19.Rasa_NLU parses intent but needs data, you fill have to find the data.
+20.np.argmax(list)
+21.Can also do intent classification using support vector machines.
+22.Words occuring before and after (.* from .* to .*) and (.* to .* from .*)
+23.Use NER for pre-built from core-nlp or spacy modules.
+24.Dependency parsing to get context i.e. ancestors help to identify from and to cases
+25.SQL database management for hotel room booking. Can also use NER here for location of room and room quality.
+26.Hotel catalog
+27.SQL Injection-Take care of malicious inputs in querying.
+28.Entities take care of prices and location of anything asked in the queries.
+29.(Hard)Incremental Slot filling, Memory based chatbot
+//30.(very difficult)Identify negation using n't 
+31.Keep a dictionary of positive things and negative things.
+32.Assume that n't just before an entity is to be excluded.
+33.AADHAR VERIFICATION API
+34.Stateful Bots(and pending states also) for room booking etc.(paid or not paid yet)
+35.RASA_NLU:
+	intent recognition and enitity recognition(gives more Entities than normal NER) for chatbot specific tasks
+	json file for data loading
+	search from internet
+	

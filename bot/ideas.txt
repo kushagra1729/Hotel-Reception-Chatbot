@@ -1,0 +1,6 @@
+Use spacy initially and later switch to Stanford's CoreNLP Library for more accuracy
+Intent Recognition-
+	-Rasa_nlu
+	-Machine Learning- Nearest Neighbour from word vector
+Named Entity Recognition- Not much useful as of now in practice
+Remove stopwords before making word vectors for cosine similarity(nltk library)
